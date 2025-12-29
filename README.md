@@ -138,8 +138,8 @@ If you find this work useful, please cite:
 @article{khan2024firesmoke,
   title={Real-Time Fire and Smoke Detection Using Lightweight Attention-Enhanced YOLOv8},
   author={Khan, Qaiser},
-  journal={Under Review},
-  year={2024}
+  journal={In progress},
+  year={2025}
 }
 
 🤝 Acknowledgements
@@ -154,7 +154,7 @@ Research community in computer vision & safety systems
 
 Qaiser Khan
 Mechatronics Engineer | AI & Robotics
-📧 Email: your-email@domain.com
+📧 Email: qaiserkhan.centaic@gmail.com
 
 
 🔗 GitHub: https://github.com/Qaiser007khan
