@@ -8,14 +8,14 @@ The model is designed for early fire warning systems, smart surveillance, and em
 
 🚀 Demo Results
 🔹 Detection on Images
-<p align="center"> <img src="demo/images/fire_1.jpg" width="420"/> <img src="demo/images/smoke_1.jpg" width="420"/> </p> <p align="center"> <img src="demo/images/fire_2.jpg" width="420"/> <img src="demo/images/smoke_2.jpg" width="420"/> </p>
+<p align="center"> <img src="Inferenced_images/bothFireAndSmoke_CV000070.jpg" width="420"/> <img src="Inferenced_images/bothFireAndSmoke_CV000341.jpg" width="420"/> </p> <p align="center"> <img src="Inferenced_images/bothFireAndSmoke_CV002059.jpg" width="420"/> <img src="Inferenced_images/bothFireAndSmoke_CV006314.jpg" width="420"/> </p>
 🔹 Detection on Video
 
 🎥 Demo Video (Click to Play)
 
 Real-time fire & smoke detection in indoor and outdoor environments
 
-<p align="center"> <a href="demo/video/fire_smoke_demo.mp4"> <img src="demo/video/video_thumbnail.jpg" width="720"/> </a> </p>
+<p align="center"> <a href="output_det.mp4"> <img src="demo/video/video_thumbnail.jpg" width="720"/> </a> </p>
 🧠 Model Architecture
 
 The proposed framework is built upon YOLOv8, with architectural enhancements to balance accuracy, speed, and model size.
