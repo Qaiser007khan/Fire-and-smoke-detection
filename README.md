@@ -25,7 +25,7 @@ Key Modifications:
 
 ✔ Multi-scale feature learning for small and dense smoke regions
 
-<p align="center"> <img src="assets/architecture.png" width="900"/> </p>
+
 📊 Performance Overview
 Model	Input Size	Params	FLOPs	mAP@50	mAP@50–95	FPS
 YOLOv8 (Baseline)	640	11.2M	28.4G	82.1%	56.7%	85
@@ -34,7 +34,7 @@ YOLOv8 + ECA (Proposed)	640	11.4M	28.9G	86.2%	61.3%	83
 YOLOv8-Nano (Edge)	640	3.2M	8.1G	80.4%	53.2%	120
 🗂️ Datasets
 
-The model is trained and evaluated on two publicly available fire & smoke datasets:
+The model is trained and evaluated on two publicly available fire & smoke datasets. The datasets will be provided upon request:
 
 🔹 FASDD (Fire and Smoke Detection Dataset)
 
